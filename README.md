@@ -62,3 +62,27 @@ The model demonstrates that changes in reserve requirements have a significant i
 The project uses the following data sources:
 - **RBI's Reserve Money Components**: [link to source](https://www.kaggle.com/datasets/iabhishekmaurya/rbi-open-dataset?resource=download)
 - **Macroeconomic Indicators**: Collected from the Indian government’s economic surveys.
+
+## Technologies Used
+- Python (pandas, numpy, statsmodels, matplotlib)
+- Jupyter Notebooks
+- Time Series Modeling (ARIMA, VAR, etc.)
+- Git and GitHub
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a pull request.
+
+## Future Work
+- Expand the time series model to include more macroeconomic indicators.
+- Implement machine learning algorithms for predictive analytics.
+
+## Contact
+If you have any questions, feel free to reach out:
+- Email: rbhattacharya848@gmail.com
+- GitHub: [nameisritam](https://github.com/nameisritam)
+
