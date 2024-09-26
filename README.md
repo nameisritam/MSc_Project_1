@@ -85,4 +85,8 @@ Contributions are welcome! Please follow these steps:
 If you have any questions, feel free to reach out:
 - Email: rbhattacharya848@gmail.com
 - GitHub: [nameisritam](https://github.com/nameisritam)
+- GitHub: [soujatya-2001](https://github.com/soujatya-2001)
+- GitHub: [Rathantari-Mahapatra](https://github.com/Rathantari-Mahapatra)
+- GitHub: [TPalle](https://github.com/TPalle)
+- GitHub: [namrata-chauhan-stats](https://github.com/namrata-chauhan-stats)
 
