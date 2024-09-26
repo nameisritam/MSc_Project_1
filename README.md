@@ -22,7 +22,7 @@ This study aims to analyze the components and sources of Reserve Money in India,
 - [Contributing](#contributing)
 - [License](#license)
 
-### Data Overview
+## Data Overview
 
 <div align="justify">
   
@@ -31,7 +31,7 @@ This study aims to analyze the components and sources of Reserve Money in India,
 </div>
 
 ## Project Structure
-Still to be filled
+Yet to be filled
 
 ## Installation
 1. Clone the repository:
@@ -46,3 +46,8 @@ Still to be filled
    ```bash
    pip install -r requirements.txt
    ```
+
+## Usage
+To run the time series model on the provided dataset:
+```bash
+python src/main.py
