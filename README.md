@@ -12,6 +12,7 @@ This study aims to analyze the components and sources of Reserve Money in India,
 - [Introduction](#introduction)
 - [Purpose](#purpose)
 - [Methodology](#methodology)
+- [Data Overview](#data-overview)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
