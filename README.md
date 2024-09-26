@@ -24,7 +24,22 @@ This study aims to analyze the components and sources of Reserve Money in India,
 
 </div>
 
+### Purpose
 
+<div align="justify">
+  
+  This study aims to analyze the components and sources of Reserve Money in India, focusing on data provided by the Reserve Bank of India (RBI). Reserve Money, also known as high-powered money, is a crucial indicator in monetary economics, directly influencing the money supply and overall economic stability. By investigating the trends, patterns, and relationships within the components of Reserve Money, this study seeks to understand how monetary policy decisions by the RBI have shaped the financial landscape over time. The analysis is intended to provide insights into the effectiveness of the RBI’s monetary policy tools and their impact on the broader economy.
 
+</div>
 
+### Methodology
 
+<div align="justify">
+  
+  i) The study uses time series analysis to investigate the dynamics of Reserve Money components, including currency in circulation, bankers' deposits with RBI, and other deposits with RBI.
+  ii) ARIMA (Auto Regressive Integrated Moving Average) modeling is employed to forecast future values of Reserve Money components.
+  iii) STL (Seasonal Decomposition of Time Series) is used to decompose the time series data to identify and analyze seasonal patterns within the Reserve Money components.
+  iv) VAR (Vector Autoregression) is applied to explore causal relationships between the RBI's claims on the government, banks, and the commercial sector.
+  v) PCA is used to identify the key factors driving changes in Reserve Money, helping to reduce dimensionality and focus on the most significant components.
+
+</div>
