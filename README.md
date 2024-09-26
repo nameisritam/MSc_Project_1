@@ -36,10 +36,10 @@ This study aims to analyze the components and sources of Reserve Money in India,
 
 <div align="justify">
   
-  i) The study uses time series analysis to investigate the dynamics of Reserve Money components, including currency in circulation, bankers' deposits with RBI, and other deposits with RBI.<br>
-  ii) ARIMA (Auto Regressive Integrated Moving Average) modeling is employed to forecast future values of Reserve Money components.<br>
-  iii) STL (Seasonal Decomposition of Time Series) is used to decompose the time series data to identify and analyze seasonal patterns within the Reserve Money components.<br>
-  iv) VAR (Vector Autoregression) is applied to explore causal relationships between the RBI's claims on the government, banks, and the commercial sector.<br>
-  v) PCA is used to identify the key factors driving changes in Reserve Money, helping to reduce dimensionality and focus on the most significant components.
+  *i)* The study uses time series analysis to investigate the dynamics of Reserve Money components, including currency in circulation, bankers' deposits with RBI, and other deposits with RBI.<br>
+  *ii)* ARIMA (Auto Regressive Integrated Moving Average) modeling is employed to forecast future values of Reserve Money components.<br>
+  *iii)* STL (Seasonal Decomposition of Time Series) is used to decompose the time series data to identify and analyze seasonal patterns within the Reserve Money components.<br>
+  *iv)* VAR (Vector Autoregression) is applied to explore causal relationships between the RBI's claims on the government, banks, and the commercial sector.<br>
+  *v)* PCA is used to identify the key factors driving changes in Reserve Money, helping to reduce dimensionality and focus on the most significant components.
 
 </div>
