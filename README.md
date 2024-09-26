@@ -1,5 +1,5 @@
 # MSc_Project_1
-# Project Title 
+## Project Title 
 
 **Dynamic Analysis of Reserve Money Components and Sources: Evaluating RBI's Monetary Policy Impact through Time Series Modeling!** <br>
 
