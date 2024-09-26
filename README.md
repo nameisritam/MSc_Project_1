@@ -51,3 +51,9 @@ Yet to be filled
 To run the time series model on the provided dataset:
 ```bash
 python src/main.py
+```
+
+## Results
+The model demonstrates that changes in reserve requirements have a significant impact on liquidity. Key findings include:
+- [Visualization of money supply trends](link to plot)
+- [Analysis of RBI’s interventions and effects on inflation](link to report)
