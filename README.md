@@ -22,7 +22,6 @@ This study aims to analyze the components and sources of Reserve Money in India,
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ### Data Overview
 
 <div align="justify">
@@ -32,24 +31,18 @@ This study aims to analyze the components and sources of Reserve Money in India,
 </div>
 
 ## Project Structure
-.
-├── data/                   # Raw and processed datasets
-├── notebooks/              # Jupyter notebooks for analysis
-├── src/                    # Source code for time series modeling
-├── results/                # Output files such as plots, models, etc.
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-└── LICENSE                 # License for the project
+Still to be filled
 
-
-### Methodology
-
-<div align="justify">
-  
-  *i)* The study uses time series analysis to investigate the dynamics of Reserve Money components, including currency in circulation, bankers' deposits with RBI, and other deposits with RBI.<br>
-  *ii)* ARIMA (Auto Regressive Integrated Moving Average) modeling is employed to forecast future values of Reserve Money components.<br>
-  *iii)* STL (Seasonal Decomposition of Time Series) is used to decompose the time series data to identify and analyze seasonal patterns within the Reserve Money components.<br>
-  *iv)* VAR (Vector Autoregression) is applied to explore causal relationships between the RBI's claims on the government, banks, and the commercial sector.<br>
-  *v)* PCA is used to identify the key factors driving changes in Reserve Money, helping to reduce dimensionality and focus on the most significant components.
-
-</div>
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nameisritam/MSc_Project_1.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd MSc_Project_1
+   ```
+3. Install dependencies (e.g., Python libraries) using:
+   ```bash
+   pip install -r requirements.txt
+   ```
