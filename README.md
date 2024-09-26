@@ -31,13 +31,16 @@ This study aims to analyze the components and sources of Reserve Money in India,
 
 </div>
 
-### Purpose
+## Project Structure
+.
+├── data/                   # Raw and processed datasets
+├── notebooks/              # Jupyter notebooks for analysis
+├── src/                    # Source code for time series modeling
+├── results/                # Output files such as plots, models, etc.
+├── README.md               # Project documentation
+├── requirements.txt        # Python dependencies
+└── LICENSE                 # License for the project
 
-<div align="justify">
-  
-  This study aims to analyze the components and sources of Reserve Money in India, focusing on data provided by the Reserve Bank of India (RBI). Reserve Money, also known as high-powered money, is a crucial indicator in monetary economics, directly influencing the money supply and overall economic stability. By investigating the trends, patterns, and relationships within the components of Reserve Money, this study seeks to understand how monetary policy decisions by the RBI have shaped the financial landscape over time. The analysis is intended to provide insights into the effectiveness of the RBI’s monetary policy tools and their impact on the broader economy.
-
-</div>
 
 ### Methodology
 
