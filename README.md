@@ -57,3 +57,8 @@ python src/main.py
 The model demonstrates that changes in reserve requirements have a significant impact on liquidity. Key findings include:
 - [Visualization of money supply trends](link to plot)
 - [Analysis of RBI’s interventions and effects on inflation](link to report)
+
+## Data Sources
+The project uses the following data sources:
+- **RBI's Reserve Money Components**: [link to source](https://www.kaggle.com/datasets/iabhishekmaurya/rbi-open-dataset?resource=download)
+- **Macroeconomic Indicators**: Collected from the Indian government’s economic surveys.
