@@ -1,4 +1,4 @@
-# MSc_Project_1
+# Time Series Project
 ## Project Title 
 <div align="justify">
   
